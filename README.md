@@ -1,6 +1,6 @@
 # Customers-Segmentation
 
-The project aims to perform customer segmentation using unsupervised learning methods, specifically K-Means clustering. Customer segmentation helps businesses group customers based on shared characteristics and behaviors, enabling personalized marketing strategies to improve customer loyalty and satisfaction. The dataset consists of customer demographics, including gender and city, which will be used along with additional transactional features (if available) to cluster customers into meaningful groups.
+The project aims to perform customer segmentation using unsupervised learning methods, specifically K-Means clustering. Customer segmentation helps businesses group customers based on shared characteristics and behaviors, enabling personalized marketing strategies to improve customer loyalty and satisfaction. The dataset consists of customer demographics, including gender and city, which will be used along with additional transactional features to cluster customers into meaningful groups.
 
 The goal is to identify patterns in customer behavior and make recommendations on which customer segments should be targeted for marketing efforts, such as offering coupons to increase retention.
 
